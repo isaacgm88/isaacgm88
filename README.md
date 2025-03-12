@@ -1,16 +1,15 @@
 ## Hi there 👋
+major💻: **computer science**
 
-<!--
-**isaacgm88/isaacgm88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+location📍:**cucuta-colombia**
 
-Here are some ideas to get you started:
+current Learning☘️:**data engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hobbies: **play soccer**⚽
+
+### Vias de contacto
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fimg.shields.io%2Fwebsite%3Furl%3Dhttp%253A%252F%252Fisaacgm88.com)
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/isaacgm88/isaacgm88)
